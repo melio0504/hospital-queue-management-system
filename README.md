@@ -11,7 +11,7 @@ This application should have the following:
 - Admin Login Functionality
 - Regular or Priority Option
 - Queue Operations
-- Choiches for Patients
+- Choices for Patients
   - Registration
   - Payment
   - Consultation
