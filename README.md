@@ -20,7 +20,6 @@ This application should have the following:
 
 ### Tech Stack
 
-- Java (Graphical User Interface)
-- C++ (Backend)
+- C++
 
-January 24, 2025
+### Deadline: January 24, 2025
